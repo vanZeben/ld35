@@ -1,6 +1,6 @@
 # LD35
 
-## Theme 
+## Theme
   Shapeshift
 
 ## Language
@@ -10,7 +10,7 @@
   Constantly running forward you need to shape-shift yourself into a balloon and keep yourself from falling through the ground (as a ball/whatever) and hitting the roof (as a balloon/whatever)
 
 ## Controls
-* SHIFT - Hold to phase into your alt state
+* SHIFT - Hold to phase into your alt state ORRRRR make it so that there are "pads" that you run over that shapshift you for you, and you have to focus on the change of what your input does rather then just timing jumps
 * SPACE - JUMP/ADD WEIGHT
 
 
