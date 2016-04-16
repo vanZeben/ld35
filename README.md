@@ -1,15 +1,18 @@
 # LD35
 
-## Theme: Shapeshift
+## Theme 
+  Shapeshift
 
-## Language: http://dartlang.org
+## Language
+   http://dartlang.org
 
 ## Game Premise
   Constantly running forward you need to shape-shift yourself into a balloon and keep yourself from falling through the ground (as a ball/whatever) and hitting the roof (as a balloon/whatever)
 
 ## Controls
-  1) SHIFT - Hold to phase into your alt state
-  2) SPACE - JUMP/ADD WEIGHT
+* SHIFT - Hold to phase into your alt state
+* SPACE - JUMP/ADD WEIGHT
+
 
 ## Other Possible Ideas
   1
